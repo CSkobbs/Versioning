@@ -1,0 +1,9 @@
+resolve conflict
+	delete all changes made by the other contributor
+
+indicate to git that the conflict is ended
+
+then commit the resolution
+pull to get the correct version
+verify
+push
